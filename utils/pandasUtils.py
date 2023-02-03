@@ -9,6 +9,13 @@ text_type_column_name = 'text_type'
 result_column_name = 'result'
 csv_path = 'data/dt.csv'
 
+csv_stat_path = 'data/dt_stat.csv'
+model_column_name = 'model'
+mean_column_name = 'mean'
+median_column_name = 'median'
+min_column_name = 'min'
+max_column_name = 'max'
+
 
 def init_main_dt():
     array_ = np.empty([0, 3])
@@ -24,6 +31,15 @@ def init_main_dt():
     return dt
 
 
+def init_stat_dt():
+    dt = pd.DataFrame(columns=[mean_column_name,
+                               median_column_name,
+                               min_column_name,
+                               max_column_name])
+    dt.index.name = model_column_name
+    return dt
+
+
 def init_dt(dt, data_name):
     return pd.DataFrame(columns=[data_name],
                         index=dt.index)
@@ -33,12 +49,20 @@ def get_main_dt():
     return pd.read_csv(csv_path, index_col=image_column_name)
 
 
+def get_stat_dt():
+    return pd.read_csv(csv_stat_path, index_col=image_column_name)
+
+
 def get_dt(data_name):
-    return pd.read_csv('data/' + data_name + '.csv', index_col=image_column_name)
+    return pd.read_csv('data/' + data_name + '.csv', index_col=data_name)
 
 
 def save_main_dt(dt):
     dt.to_csv(csv_path)
+
+
+def save_stat_dt(dt):
+    dt.to_csv(csv_stat_path)
 
 
 def save_dt(dt, data_name):

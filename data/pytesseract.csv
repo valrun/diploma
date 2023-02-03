@@ -1,13 +1,9 @@
-image,pytesseract,levenstein
-paper-4,"image
-paper-4    image\npaper-4    tulatendho pasmewwats chkvyi...
-paper-4    image\npaper-4    tulatendho pasmewwats chkvyi...
-name: pytesseract, dtype: object",5.0
-paper-1,"neckobetok
+pytesseract,image,levenstein
+"neckobetok
 lm
 
-",8.0
-paper-2,"nw ement
+",paper-1,-0.9315795030771734
+"nw ement
 
 ecomaterial
 cct, 500-1120 basi¢
@@ -19,8 +15,8 @@ ae
 “a ww
 
 ccn 500-20
-",22.0
-paper-3,"2, tokiheakay
+",paper-2,0.9549830432398498
+"2, tokiheakay
 shkortostan, 4891
 teleak #73479) 29-7
 
@@ -40,13 +36,10 @@ kaus
 
 bv. osl.o 1 2983 lm barend cri
 
-",8.0
-paper-4,"image
-paper-4    image\npaper-4    tulatendho pasmewwats chkvyi...
-paper-4    image\npaper-4    tulatendho pasmewwats chkvyi...
-name: pytesseract, dtype: object",5.0
-paper-5,nan,2.0
-paper-6,"saas os
+",paper-3,-1.0473223475250217
+tulatendho pasmewwats chkvyi,paper-4,1.1909514735209055
+,paper-5,-0.06168256611867596
+"saas os
 
 as‘ze mw atn
 
@@ -77,22 +70,22 @@ ortlanocement
 ahawanuhyuldou
 
 gs'ze m-wal wan
-",8.0
-paper-7,"sy
+",paper-6,-0.7970370658872363
+"sy
 
 p75 ha
 p2264
 eig,
 
 ea
-",6.0
-paper-8,nan,1.0
-paper-9,"f
+",paper-7,0.22718351167419681
+,paper-8,-1.2439775594806952
+"f
 tband a. >
 >
-",3.0
-paper-10,nan,2.0
-paper-11,"po hl 7
+",paper-9,-0.3593180768164462
+,paper-10,0.1495239175775674
+"po hl 7
 <"""" lhainid vhvvldou
 
 ere
@@ -103,20 +96,20 @@ optnard c
 
 ne
 
-",3.0
-paper-12,nan,1.0
-wood-16,nan,0.0
-wood-17,nan,0.0
-wood-15,nan,0.0
-wood-14,nan,0.0
-wood-10,nan,7.0
-wood-11,"a pae a sarre.
+",paper-11,-0.5716553390330651
+,paper-12,-1.314467180533987
+,wood-16,0.8504836228522022
+,wood-17,0.7860065252877503
+,wood-15,-0.12871552197869485
+,wood-14,-1.0263537900914022
+,wood-10,-1.5810653689844623
+"a pae a sarre.
 québec-consda
 
 ‘i, she nore rd.com
 
-",55.0
-wood-13,"nd° osb egger
+",wood-11,0.43304375651712745
+"nd° osb egger
 wii) &€ ® *
 
 uo
@@ -133,20 +126,20 @@ ash
 be
 omatiee be
 rags
-",12.0
-wood-12,nan,0.0
-wood-9,"qeiee iape-se
+",wood-13,-0.1955326098608903
+,wood-12,-1.060011511514048
+"qeiee iape-se
 
 wn
 
-",17.0
-wood-8,nan,0.0
-wood-3,nan,0.0
-wood-2,nan,9.0
-wood-1,nan,21.0
-wood-5,nan,0.0
-wood-4,nan,3.0
-wood-6,"nac mopmar 2750x1830 mm ji
+",wood-9,0.15381905642315763
+,wood-8,1.5204791877611346
+,wood-3,0.6696340283989108
+,wood-2,1.9979277121814005
+,wood-1,-0.4078357537352596
+,wood-5,0.5209478684588287
+,wood-4,-0.9319835591913037
+"nac mopmar 2750x1830 mm ji
 agnoxz noxapho
 
 jiqactn chopmart 2750x1830 mm
@@ -227,110 +220,103 @@ j
 
 is
 
-",4.0
-wood-7,nan,0.0
-wood-22,nan,25.0
-wood-20,nan,33.0
-wood-21,nan,6.0
-wood-19,nan,0.0
-wood-18,nan,0.0
-metal-1,nan,27.0
-metal-2,nan,21.0
-metal-3,nan,7.0
-metal-7,nan,0.0
-metal-6,nan,21.0
-metal-4,nan,0.0
-metal-5,nan,8.0
-metal-19,nan,0.0
-metal-18,nan,6.0
-metal-20,nan,0.0
-metal-13,nan,12.0
-metal-12,nan,11.0
-metal-10,nan,0.0
-metal-11,nan,12.0
-metal-15,nan,0.0
-metal-14,nan,3.0
-metal-16,"si 20295-85
+",wood-6,-0.20461109292998556
+,wood-7,-0.5327980307590742
+,wood-22,-1.0024814107644433
+,wood-20,-0.4020009228973071
+,wood-21,-1.4404539015931892
+,wood-19,-1.7724158723726715
+,wood-18,0.016066445914389833
+,metal-1,1.063334006582701
+,metal-2,0.293659945643645
+,metal-3,-1.4505154682102261
+,metal-7,1.0539472416847067
+,metal-6,0.8726091298319493
+,metal-4,1.646490745439299
+,metal-5,0.042431133855165566
+,metal-19,1.1080584821674213
+,metal-18,2.504843521817465
+,metal-20,-0.732239703428475
+,metal-13,-1.0923029179428487
+,metal-12,-0.4217922973689003
+,metal-10,0.8993590093329832
+,metal-11,-1.147855730087937
+,metal-15,-1.4276305687655193
+,metal-14,1.4736535072160835
+"si 20295-85
 9f26 k- ae
 
 634 2ne 219 9.1015
 0-10) +70 0'0e i
 
-",55.0
-metal-17,nan,14.0
-metal-8,nan,15.0
-metal-9,nan,5.0
-silver-11,nan,10.0
-silver-10,nan,9.0
-silver-12,nan,0.0
-silver-13,nan,0.0
-silver-17,nan,5.0
-silver-16,,-1.0303424976457476
-silver-8,nan,8.0
-silver-14,nan,0.0
-silver-15,nan,0.0
-silver-9,nan,0.0
-silver-4,nan,0.0
-silver-5,nan,7.0
-silver-7,nan,15.0
-silver-6,nan,6.0
-silver-2,nan,12.0
-silver-3,nan,0.0
-silver-1,nan,12.0
-tyre-2,nan,0.0
-tyre-3,nan,4.0
-tyre-1,"2 ys2wre 024-456:
+",metal-16,-0.5500622554661525
+,metal-17,1.7494895891134892
+,metal-8,1.6050445486985816
+,metal-9,0.1544943081325811
+,silver-11,1.3876640252294046
+,silver-10,-0.19088436515609108
+,silver-12,0.6090662299685756
+,silver-13,-0.8114033841720641
+,silver-17,-0.6672846507696402
+,silver-16,0.4481240779849959
+,silver-8,0.11295891207127276
+,silver-14,-1.2904759870653442
+,silver-15,-0.24275245424523073
+,silver-9,1.7795497299107073
+,silver-4,1.0948178759035798
+,silver-5,0.36837219679908534
+,silver-7,0.6609472759581451
+,silver-6,0.08880662958335131
+,silver-2,-0.8409679965282588
+,silver-3,-0.5234027128022279
+,silver-1,0.5736526431845826
+,tyre-2,0.7121876421981109
+,tyre-3,0.00854390951901724
+"2 ys2wre 024-456:
 
 aay oe
 
 x
 
-",38.0
-tyre-4,nan,0.0
-tyre-5,nan,12.0
-tyre-6,nan,6.0
-tyre-7,nan,16.0
-tyre-8,nan,18.0
-tyre-9,nan,14.0
-tyre-10,"image
-tyre-10    image\ntyre-10    nan\ntyre-10    nan\nname: p...
-tyre-10    image\ntyre-10    nan\ntyre-10    nan\nname: p...
-name: pytesseract, dtype: object",17.0
-tyre-10,"image
-tyre-10    image\ntyre-10    nan\ntyre-10    nan\nname: p...
-tyre-10    image\ntyre-10    nan\ntyre-10    nan\nname: p...
-name: pytesseract, dtype: object",17.0
-tyre-11,nan,18.0
-tyre-12,nan,0.0
-tyre-13,nan,8.0
-tyre-14,nan,8.0
-tyre-15,nan,18.0
-tyre-16,nan,11.0
-tyre-17,nan,13.0
-glass-4,nan,6.0
-glass-5,nan,6.0
-glass-2,nan,0.0
-glass-3,nan,0.0
-glass-1,nan,0.0
-glass-6,"mctorland
-",8.0
-glass-7,nan,6.0
-glass-8,nan,7.0
-glass-9,nan,25.0
-glass-10,nan,2.0
-glass-11,nan,0.0
-glass-12,nan,3.0
-glass-13,nan,11.0
-glass-14,nan,0.0
-gold-1,nan,3.0
-gold-3,nan,6.0
-gold-2,nan,0.0
-gold-6,nan,3.0
-gold-7,nan,16.0
-gold-5,nan,4.0
-gold-4,nan,0.0
-brick-1,nan,0.0
-brick-2,": ?
+",tyre-1,-1.496248484194335
+,tyre-4,0.05921607409685739
+,tyre-5,-0.15999565180379427
+,tyre-6,0.5955299407106763
+,tyre-7,0.026517754521765528
+,tyre-8,0.7607401832995977
+,tyre-9,0.2810269024383066
+,tyre-10,0.21254456043603193
+,tyre-11,0.6782354471588311
+,tyre-12,-0.48838762614478476
+,tyre-13,-0.8385949654708215
+,tyre-14,0.3449250535259866
+,tyre-15,-0.6157640043810083
+,tyre-16,-1.762605888477416
+,tyre-17,1.9062253284899477
+,glass-4,0.3226351667684033
+,glass-5,-2.117015592318773
+,glass-2,0.858242460783648
+,glass-3,1.782629432282204
+,glass-1,-0.07228819528263461
+"mctorland
+",glass-6,1.576546825681125
+,glass-7,0.9068510339133977
+,glass-8,0.7358181943183082
+,glass-9,0.41172172717996636
+,glass-10,0.4963570544617448
+,glass-11,0.031523378638592045
+,glass-12,0.8771258730856327
+,glass-13,-0.14159722452316034
+,glass-14,0.16599170109257852
+,gold-1,2.4923753625416603
+,gold-3,-1.1568623230910244
+,gold-2,0.7586665706314076
+,gold-6,-0.5533171897151926
+,gold-7,-0.2992251141996544
+,gold-5,0.12967214166033098
+,gold-4,-1.2022569543994759
+,brick-1,1.2461561247234545
+": ?
 "" ~~ 4
 oy,
 ® ©
@@ -375,43 +361,43 @@ hs - é
 - 8 4
 é
 
-",2.0
-brick-3,"a a i et ire pe
+",brick-2,0.198777569156145
+"a a i et ire pe
 
 eevee te
 
 ot
-",5.0
-brick-4,nan,0.0
-brick-5,nan,10.0
-brick-6,nan,3.0
-brick-7,nan,29.0
-brick-8,nan,0.0
-brick-9,nan,5.0
-brick-10,nan,3.0
-brick-11,nan,11.0
-brick-12,nan,20.0
-brick-13,nan,0.0
-brick-14,nan,20.0
-brick-15,nan,44.0
-brick-16,nan,0.0
-brick-17,nan,0.0
-brick-18,"ss zane
+",brick-3,1.7710886295300716
+,brick-4,-1.4200814937274544
+,brick-5,-1.8267566178569157
+,brick-6,-0.7110948574335707
+,brick-7,-3.515705864983682
+,brick-8,0.02137927631461395
+,brick-9,-0.4905371386607525
+,brick-10,-0.6200167241702607
+,brick-11,2.9701798707026055
+,brick-12,-0.24959565048814517
+,brick-13,2.9687353431485084
+,brick-14,1.5280778936992148
+,brick-15,-0.33126149086266393
+,brick-16,-1.0497273537631826
+,brick-17,-1.4009561375252877
+"ss zane
 
-",11.0
-brick-19,nan,15.0
-brick-20,nan,0.0
-brick-21,nan,12.0
-brick-22,nan,12.0
-brick-23,nan,0.0
-brick-24,nan,0.0
-brick-25,nan,0.0
-brick-26,nan,15.0
-brick-27,nan,31.0
-brick-28,nan,0.0
-plastic-8,nan,5.0
-plastic-9,nan,1.0
-plastic-1,"maren ¢ ee eneta!,
+",brick-18,0.8412236470051048
+,brick-19,0.6842085008807367
+,brick-20,-0.782524864896142
+,brick-21,-0.0011470090006702755
+,brick-22,1.277289248860548
+,brick-23,0.5291415185944122
+,brick-24,0.5786986149526149
+,brick-25,-0.04400869695947021
+,brick-26,0.11028729261321733
+,brick-27,0.11035568274117802
+,brick-28,0.14309845472796068
+,plastic-8,0.567888425650968
+,plastic-9,-1.7519747498279106
+"maren ¢ ee eneta!,
 
 tak smck
 he®texmm
@@ -421,8 +407,8 @@ no
 macca h
 varoroar
 
-",11.0
-plastic-14,"marepnan knace
+",plastic-1,0.760524994160125
+"marepnan knace
 toprogan mapka skcrmyaraynn
 
 ii homnnanbhoe
@@ -430,11 +416,11 @@ k am
 “ona ea” faenentc
 
 fe
-",7.0
-plastic-2,nan,3.0
-plastic-3,nan,0.0
-plastic-11,nan,0.0
-plastic-7,"|
+",plastic-14,-0.5753081949966368
+,plastic-2,-0.8832849933534324
+,plastic-3,2.539620271074134
+,plastic-11,-2.5979439861520524
+"|
 |
 |
 |
@@ -445,8 +431,8 @@ plastic-7,"|
 porous prill ammonium nitrate
 ee namo; ammonium nitrate
 
-",34.0
-plastic-6,"hukhekamckhe ote yq
+",plastic-7,1.254428007940434
+"hukhekamckhe ote yq
 nizhnekamsknerte i499
 
 abc-nnactuk
@@ -463,11 +449,11 @@ net weight 25 kg
 visrotosneno g poceun
 produced in russia
 
-",26.0
-plastic-10,"@jakko hot & cold water ferc pipe (typ
+",plastic-6,-0.6884848453754749
+"@jakko hot & cold water ferc pipe (typ
 
-",65.0
-plastic-12,"in 25 abs
+",plastic-10,2.508937630886132
+"in 25 abs
 in 30 ma
 4158
 
@@ -475,10 +461,10 @@ hsl
 ed sini roct p51326.199
 eee
 
-",41.0
-plastic-4,nan,9.0
-plastic-5,nan,8.0
-plastic-13,"—_ [panuthaa hou
+",plastic-12,0.7806348787911536
+,plastic-4,-1.0310169929629809
+,plastic-5,-0.4763829440876992
+"—_ [panuthaa hou
 pakuna 2,5-5 mm. ~
 
 is
@@ -490,9 +476,9 @@ oceans
 2ct 31424-2020
 
 smile?
-",21.0
-round-4,,-1.126122381865125
-round-3,"i] TOg CHEAYIOWErO
+",plastic-13,0.14772983258492808
+,round-4,-0.057707299196150856
+"i] TOg CHEAYIOWErO
 @ OCBUAETENbCTBOBAHNA
 
 !
@@ -507,6 +493,6 @@ HOMEP @ 9 macca
 
 @ nyctToro
 BASINOHA
-",0.39381182401733383
-round-2,,0.5312887505113503
-round-1,,-1.1633931541638518
+",round-3,1.096174502341738
+,round-2,0.23601601812414777
+,round-1,0.8366930854091845
