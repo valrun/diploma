@@ -11,6 +11,7 @@ csv_path = 'data/dt.csv'
 
 csv_stat_path = 'data/dt_stat.csv'
 model_column_name = 'model'
+metric_column_name = 'metric'
 type_column_name = 'type'
 mean_column_name = 'mean'
 median_column_name = 'median'
@@ -37,7 +38,9 @@ def init_stat_dt():
                                median_column_name,
                                min_column_name,
                                max_column_name])
-    dt.index = pd.MultiIndex.from_frame(pd.DataFrame(columns=[model_column_name, type_column_name]))
+    dt.index = pd.MultiIndex.from_frame(pd.DataFrame(columns=[model_column_name,
+                                                              metric_column_name,
+                                                              type_column_name]))
     return dt
 
 
@@ -51,10 +54,10 @@ def get_main_dt():
 
 
 def get_stat_dt():
-    return pd.read_csv(csv_stat_path).set_index([model_column_name, type_column_name])
+    return pd.read_csv(csv_stat_path).set_index([model_column_name, metric_column_name, type_column_name])
 
 
-def get_dt(data_name):
+def get_model_dt(data_name):
     return pd.read_csv('data/' + data_name + '.csv', index_col=data_name)
 
 
@@ -66,7 +69,7 @@ def save_stat_dt(dt):
     dt.to_csv(csv_stat_path)
 
 
-def save_dt(dt, data_name):
+def save_model_dt(dt, data_name):
     dt.to_csv('data/' + data_name + '.csv')
 
 
