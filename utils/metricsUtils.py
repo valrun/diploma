@@ -1,12 +1,10 @@
-from statistics import mean, median
-
 import jellyfish
 import numpy as np
 import pandas as pd
 
+from statistics import mean, median
 from matplotlib import pyplot as plt
-
-from utils.pandasUtils import get_model_dt, image_column_name, save_stat_dt, init_stat_dt, save_model_dt
+from utils.pandasUtils import get_model_dt, image_column_name, save_stat_dt, save_model_dt
 
 
 def replace_same_letters(word):
@@ -72,8 +70,6 @@ def add_metrics(dt, dt_model, data_name):
     add_metric(dt, dt_model, data_name, get_damerau, 'damerau')
     add_metric(dt, dt_model, data_name, get_hamming, 'hamming')
     add_metric(dt, dt_model, data_name, get_match_rating_comparison, 'rating')
-
-    print(dt_model.head())
     return dt_model
 
 
