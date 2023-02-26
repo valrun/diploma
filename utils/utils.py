@@ -10,11 +10,6 @@ paddleocr_column_name = 'paddleocr'
 doctr_column_name = 'doctr'
 pytesseract_column_name = 'pytesseract'
 
-globals()['easyocr_column_name'] = easyocr_column_name
-globals()['paddleocr_column_name'] = paddleocr_column_name
-globals()['doctr_column_name'] = doctr_column_name
-globals()['pytesseract_column_name'] = pytesseract_column_name
-
 
 def get_image_filepaths():
     return glob(image_path)
